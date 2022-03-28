@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  VFPoC
+
+  Created by Sergey Gorin on 07/02/2019.
+  Copyright © 2019 Sergey Gorin. All rights reserved.
+*/
+
+// MARK: - General
+"skip" = "Пропустить";
+"continue" = "Далее";
+"finish" = "Готово";
+"likes" = "Нравится: %d";
+"all" = "Все";
+
+// MARK: - Gender
+"gender.female" = "Женщина";
+"gender.male" = "Мужчина";
+
+// MARK: - Main Tab Bar items
+"tab_bar_item.feed" = "TOBOX";
+"tab_bar_item.favorites" = "Избранное";
+"tab_bar_item.cart" = "Корзина";
+"tab_bar_item.profile" = "Профиль";
+
+// MARK: - Onboarding
+"onboarding.gender.text1" = "Как Вы себя идентифицируете?";
+"onboarding.gender.text2" = "Пользоваться приложением будет удобнее, если Вы укажите свой пол.";
+"onboarding.birthday.text1" = "Когда Вы родились?";
+"onboarding.birthday.text2" = "Мы будем работать еще лучше, если Вы укажите год своего рождения.";
+"onboarding.preferences.text1" = "Какие категории Вам будут наиболее интересны?";
+"onboarding.preferences.text2" = "Выберите минимум 3.";
+
+// MARK: - Feed Item
+"feed.shop_now" = "Подробнее";

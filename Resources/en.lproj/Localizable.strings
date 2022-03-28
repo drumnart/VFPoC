@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  VFPoC
+
+  Created by Sergey Gorin on 07/02/2019.
+  Copyright © 2019 Sergey Gorin. All rights reserved.
+*/
+
+// MARK: - General
+"skip" = "Skip";
+"continue" = "Continue";
+"finish" = "Finish";
+"likes" = "%d likes";
+"all" = "All";
+
+// MARK: - Gender
+"gender.female" = "Female";
+"gender.male" = "Male";
+
+// MARK: - Main Tab Bar items
+"tab_bar_item.feed" = "TOBOX";
+"tab_bar_item.favorites" = "Favorites";
+"tab_bar_item.cart" = "Cart";
+"tab_bar_item.profile" = "Profile";
+
+// MARK: - Onboarding
+"onboarding.gender.text1" = "How do you identify yourself?";
+"onboarding.gender.text2" = "You’ll help us to provide a better user experience by choosing the gender.";
+"onboarding.birthday.text1" = "When were you born?";
+"onboarding.birthday.text2" = "Also we’ll perform better if you tell us the year you were born.";
+"onboarding.preferences.text1" = "What are your favourite categories?";
+"onboarding.preferences.text2" = "Choose at least 3.";
+
+// MARK: - Feed Item
+"feed.shop_now" = "Shop Now";
+
