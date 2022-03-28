@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target "VFPoC" do
+  pod 'SwiftGen'
+  pod 'Kingfisher'
+  
+  # Local Dependencies
+  pod 'Network', :path => '../../ios-net/Network'
+end
